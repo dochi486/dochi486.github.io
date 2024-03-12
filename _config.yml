@@ -61,4 +61,4 @@ social:
 
 # Plugins
 gems:
-  - jekyll-seo-tag
+- jekyll-seo-tag
