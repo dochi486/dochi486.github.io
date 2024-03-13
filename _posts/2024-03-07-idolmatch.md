@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Parsing XML with Ruby
-date: 2014-01-15 00:18:23
-author: sobolevn
-categories: ruby
-short_description: This post will cover all the process of parsing XML with Ruby.
-image_preview: https://avatars2.githubusercontent.com/u/4660275?v=3&s=460
+title: Idol Match 3 Match Puzzle 
+date: 2024-03-07 00:18:23
+author: dochi486
+categories: Unity
+short_description: 현재 재직 중인 회사 제이스테어에서 개발에 참여한 프로젝트입니다.
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacus est, sollicitudin sit amet molestie et, sodales vel ex. Vivamus lobortis blandit nibh, eu cursus justo ultrices ultricies. Nunc vitae ipsum imperdiet, mattis elit nec, sollicitudin nulla. Phasellus magna tortor, accumsan sit amet sapien eu, rhoncus consectetur est. Nunc pellentesque quam odio, eu cursus ex porttitor at. Sed ut neque dolor. Morbi ut rhoncus lectus. Ut luctus, enim ac interdum tempor, eros erat feugiat ante, sit amet feugiat magna quam non dolor. Pellentesque fermentum quam in justo mollis facilisis. Integer et tortor urna. Proin aliquam purus auctor sagittis mollis. Proin a sollicitudin turpis. In rhoncus eget massa id feugiat. Duis rutrum ligula eget erat feugiat, nec placerat ante facilisis. Suspendisse iaculis neque eu elementum mollis. Ut tempus libero sed congue iaculis.
 

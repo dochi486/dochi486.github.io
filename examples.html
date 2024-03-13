@@ -18,13 +18,13 @@ permalink: portfolio
     {% assign nth = forloop.index0 | modulo:2 %}
     <div class="media t-hackcss-media">
 
-      {% if nth == 0 %}
+      <!-- {% if nth == 0 %}
       <div class="t-hackcss-media-shift media-left">
         <img class="t-hackcss-media-image"
              src="{{ post.image_preview }}" alt="{{ post.title }}"
              title="{{ post.title }}" />
       </div>
-      {% endif %}
+      {% endif %} -->
 
       <div class="media-body">
         <div class="media-heading">
@@ -45,13 +45,13 @@ permalink: portfolio
         </div>
       </div>
 
-      {% if nth == 1 %}
+      <!-- {% if nth == 1 %}
       <div class="t-hackcss-media-shift media-right">
         <img class="t-hackcss-media-image"
              src="{{ post.image_preview }}" alt="{{ post.title }}"
              title="{{ post.title }}" />
       </div>
-      {% endif %}
+      {% endif %} -->
     </div>
   {% endfor %}
 </section>
