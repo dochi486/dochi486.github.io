@@ -28,6 +28,8 @@ your_name: dochi486
 email: 93mskim@gmail.com
 
 navigation:
+  - text: Home
+    url: /
   - text: About
     url: /blog
   - text: Portfolio
