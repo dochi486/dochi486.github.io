@@ -29,7 +29,7 @@ email: 93mskim@gmail.com
 
 navigation:
   - text: About
-    url: /
+    url: /blog
   - text: Portfolio
     url: /portfolio
 
