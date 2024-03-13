@@ -17,4 +17,4 @@ short_description: Ndream 재직 당시 참여했던 프로젝트입니다.
 - 개발사 : ㈜ NDREAM
 - 담당역할 : 컨텐츠 개발
 
-
+{% youtube KLtGmIDtQA0 %}
