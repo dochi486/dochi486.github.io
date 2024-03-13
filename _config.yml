@@ -10,7 +10,7 @@ title: Dochi486's Blog
 description: > # this means to ignore newlines until "baseurl:"
   Technical blog and portfolio
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
-baseurl:   # the subpath of your site, e.g. /blog
+baseurl: /blog   # the subpath of your site, e.g. /blog
 url: https://dochi486.github.io  # the base hostname & protocol for your site
 
 # Build settings
@@ -28,8 +28,6 @@ your_name: dochi486
 email: 93mskim@gmail.com
 
 navigation:
-  - text: Home
-    url: /
   - text: About
     url: /blog
   - text: Portfolio
