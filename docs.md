@@ -3,25 +3,25 @@ layout: default
 permalink: blog 
 ---
 
-# Docs
+# About
 
-## Configuration
+## 김명수
 
-This theme can be configured by modifying the `_config.yml` file.
+게임이 좋아 게임을 만들고 싶어 게임 개발을 시작했습니다.
 
-### Theme settings
+### Education
 
-This theme supports three different mode provided by `hack.css`:
+- 2021.04 ~ 2021.10 `아텐츠게임아카데미` 게임 프로그래머 양성 과정 수료
+- 2012.03 ~ 2018.02 `서울여자대학교` 독어독문학 전공
+- 2014.08 ~ 2015.08 `뷔르츠부르츠 대학교` 독어독문학 교환학기
 
-- `standard`
-- `markdown`
-- `dark`
 
-Set `theme_mode` to the desired value.
+### Career
 
-### Available customizations
+- 2022.12 ~ 현재 `제이스테어` 플랫폼본부 개발팀 클라이언트 개발자 
+- 2022.01 ~ 2022.07 `엔드림게임즈` 드래곤엠파이어팀 클라이언트 개발자 
 
-- `your_name` and `email` strings to display them in different places on site
-- `navigation` is an array of `text` and `url` pairs to render the menu
-- `projects` is a setting that contains data for the `examples` page, every item must contain `name` and `link`, `image` and `description` are optional
-- `social` contains an array of three required params: `service` is used to include a service icon by the {% raw %}`{% include icon-{{ service }}.html %}`{% endraw %} command, `username` and `link` are quite obvious
+
+### Tech Stack
+![C#](image.png)
+![Unity](image-1.png)
