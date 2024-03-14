@@ -25,3 +25,9 @@ permalink: blog
 ### Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
+### Other Info
+
+- TOEIC 985점
+- 독일어 DSH 2(C2수준)
