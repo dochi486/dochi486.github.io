@@ -27,29 +27,7 @@ $on-palm:          768px;
     }
 }
 
-/* 유튜브 동영상을 감싸는 div에 대한 스타일 */
-.youtube-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 비율의 동영상을 위한 값 */
-    overflow: hidden;
-}
 
-/* 실제 동영상을 포함하는 iframe에 대한 스타일 */
-.youtube-video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-/* 모바일 장치에서 동영상이 확대되지 않도록 함 */
-@media only screen and (max-width: 600px) {
-    .youtube-container {
-        padding-bottom: 30%; /* 모바일 장치에서는 조금 더 작은 비율을 사용할 수 있음 */
-    }
-}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
