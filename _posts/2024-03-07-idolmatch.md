@@ -15,8 +15,9 @@ short_description: 현재 재직 중인 회사 제이스테어에서 개발에 �
 - 개발사 : ㈜ JStair
 - 담당역할 : 아웃게임 컨텐츠 개발
 
+<div class="youtube-container">
 <iframe width="460" height="817" src="https://www.youtube.com/embed/ST7tYitkbZg" title="[idol match] Enjoy a puzzle game with KPOP!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+</div>
 - 친구 시스템 및 UI
 - 음악 플레이어 구현
 - 파이어베이스, 애플 로그인 연동 작업
