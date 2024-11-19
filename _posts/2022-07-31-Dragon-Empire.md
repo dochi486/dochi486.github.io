@@ -19,15 +19,15 @@ short_description: Ndream 재직 당시 참여했던 프로젝트입니다.
 - 타깃 국가 : 글로벌
 - 개발사 : ㈜ NDREAM
 - 담당역할 : 컨텐츠 개발
-  - 아이템, 장비 조합 시스템 구현
-  - 스토리 컨텐츠 구현 (보스 소환, 미션 시스템)
-  - 랭킹 이벤트 및 우편 보상 시스템 구현
-  - 튜토리얼 개선 작업
-  - 건물, 병사 업그레이드 UI 개선 작업
-  - 필드 탐색 시스템 개선
-  - 라이브 점검 대응
-    ㄴCI/CD 활용한 서버 및 클라이언트 패치 대응
-    ㄴDBA와 기획 담당자, PD 등 여러 직군과의 협업
+  └ 아이템, 장비 조합 시스템 구현
+  └ 스토리 컨텐츠 구현 (보스 소환, 미션 시스템)
+  └ 랭킹 이벤트 및 우편 보상 시스템 구현
+  └ 튜토리얼 개선 작업
+  └ 건물, 병사 업그레이드 UI 개선 작업
+  └ 필드 탐색 시스템 개선
+  └ 라이브 점검 대응
+  <br>└ CI/CD 활용한 서버 및 클라이언트 패치 대응</br>
+  <br>└ DBA와 기획 담당자, PD 등 여러 직군과의 협업</br>
 
 <div class="youtube-container">
 <iframe width="500" height="320" src="https://www.youtube.com/embed/KLtGmIDtQA0" title="[Dragon Siege] Siege Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
