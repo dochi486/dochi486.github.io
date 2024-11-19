@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Idol Match 3 Match Puzzle 
+title: Idol Match 3 Match Puzzle
 date: 2024-03-07 00:18:23
 author: dochi486
 categories: Unity
-short_description: 현재 재직 중인 회사 제이스테어에서 개발에 참여한 프로젝트입니다.
+short_description: 올해 재직했던 회사 제이스테어에서 개발에 참여한 프로젝트입니다.
 ---
 
 - 사용 언어 : C#
@@ -13,7 +13,7 @@ short_description: 현재 재직 중인 회사 제이스테어에서 개발에 �
 - 목표 플랫폼 : 모바일
 - 타깃 국가 : 글로벌
 - 개발사 : ㈜ JStair
-- 담당역할 : 아웃게임 컨텐츠 개발
+- 담당역할 : 인/아웃 게임 UI 개발 및 아웃게임 컨텐츠 구현
 
 <style>
     /* 유튜브 동영상을 감싸는 div에 대한 스타일 */
