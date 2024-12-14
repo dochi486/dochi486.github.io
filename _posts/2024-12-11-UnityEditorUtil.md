@@ -11,7 +11,6 @@ short_description: 모든 매테리얼의 쉐이더를 한 번에 바꿔주는 �
 ### 유니티 커스텀 에디터
 
 - 지원되지 않는 쉐이더를 한 번에 바꾸는 커스텀 에디터 툴
--
 
 ```cs
 using System.Collections.Generic;
@@ -25,11 +24,13 @@ public class MaterialChange : EditorWindow
     public static Shader oldShader;
     public static Shader newShader;
 
-    // 모든 매태리얼 중에서 Stylized Lit으로 설정된 메테리얼 쉐이더를 URP의 Lit으로 바꿔준다.
+    // 모든 매태리얼 중에서 Stylized Lit으로 설정된 메테리얼 쉐이더를
+    // URP의 Lit으로 바꿔준다.
     [MenuItem("Window/3. Change Broken Shader")]
     static void Init()
     {
-        MaterialChange window = (MaterialChange)EditorWindow.GetWindow(typeof(MaterialChange));
+        MaterialChange window = (MaterialChange)EditorWindow.
+          GetWindow(typeof(MaterialChange));
         window.Show();
     }
 
