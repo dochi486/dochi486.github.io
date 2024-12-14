@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 유니티 커스텀 에디터 툴
+title: Unity Custom Editor Tool
 date: 2024-12-12 16:40:50
 author: dochi486
 categories: Unity
-short_description: Unity에서 매테리얼의 쉐이더가 깨져서 핫핑크로 보일 때 모든 매테리얼의 쉐이더를 한 번에 바꿔주는 에디터 툴
+short_description: 모든 매테리얼의 쉐이더를 한 번에 바꿔주는 커스텀 에디터 툴
 ---
 
 ### 유니티 커스텀 에디터
