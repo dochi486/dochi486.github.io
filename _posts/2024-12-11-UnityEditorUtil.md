@@ -11,6 +11,7 @@ short_description: 모든 매테리얼의 쉐이더를 한 번에 바꿔주는 �
 ### 유니티 커스텀 에디터
 
 - 지원되지 않는 쉐이더를 한 번에 바꾸는 커스텀 에디터 툴
+-
 
 ```cs
 using System.Collections.Generic;
@@ -34,9 +35,12 @@ public class MaterialChange : EditorWindow
 
     private void OnGUI()
     {
-        GUILayout.Label("Change Broken Material into Working Material", EditorStyles.boldLabel);
-        oldShader = (Shader)EditorGUILayout.ObjectField("Broken Shader" , oldShader, typeof(Shader) , true);
-        newShader = (Shader)EditorGUILayout.ObjectField("New Shader", newShader, typeof(Shader), true);
+        GUILayout.Label("Change Broken Material into Working Material",
+         EditorStyles.boldLabel);
+        oldShader = (Shader)EditorGUILayout.ObjectField("Broken Shader" ,
+         oldShader, typeof(Shader) , true);
+        newShader = (Shader)EditorGUILayout.ObjectField("New Shader",
+         newShader, typeof(Shader), true);
 
         if(GUILayout.Button("Change Shader"))
             ChangeShader();
@@ -46,7 +50,8 @@ public class MaterialChange : EditorWindow
     {
         List<GameObject> currentSceneObjects = new List<GameObject>();
 
-        currentSceneObjects = FindObjectsByType<GameObject>(FindObjectsSortMode.None).ToList();
+        currentSceneObjects = FindObjectsByType<GameObject>(FindObjectsSortMode.None)
+        .ToList();
 
         foreach(var item in currentSceneObjects)
         {
