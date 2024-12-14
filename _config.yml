@@ -16,6 +16,11 @@ url: https://dochi486.github.io # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 future: true
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
 
 # Sass settings
 sass:
