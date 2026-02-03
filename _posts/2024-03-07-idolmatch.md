@@ -4,7 +4,7 @@ title: Idol Match 3 Match Puzzle
 date: 2024-03-07 00:18:23
 author: dochi486
 categories: Unity
-short_description: 올해 재직했던 회사 제이스테어에서 개발에 참여한 프로젝트입니다.
+short_description: 제이스테어에서 개발에 참여한 프로젝트입니다.
 ---
 
 - 사용 언어 : C#
