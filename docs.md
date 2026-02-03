@@ -17,6 +17,7 @@ permalink: blog
 
 ### Career
 
+- 2025.07 ~ 2025.12 [`그라비티네오싸이언`](https://www.gravityneocyon.com/) VM디비전 주임 클라이언트 개발자
 - 2022.12 ~ 2024.05 [`제이스테어`](https://jstair.com/) 플랫폼본부 개발팀 클라이언트 개발자
 - 2022.01 ~ 2022.07 [`엔드림게임즈`](https://www.ndream.com/) 드래곤엠파이어팀 클라이언트 개발자
 
